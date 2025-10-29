@@ -237,7 +237,7 @@ Edit `backend/config.py` to customize:
 
 ```python
 class Settings:
-    CLAUDE_MODEL = "claude-sonnet-4-20250514"
+    CLAUDE_MODEL = "claude-sonnet-4-5"
     MAX_TOKENS = 1024
     ANALYSIS_MAX_TOKENS = 512
     HOST = "0.0.0.0"
